@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/WBS-meme-genrator/static/css/main.a7253975.chunk.css",
+    "main.js": "/WBS-meme-genrator/static/js/main.e48a4ce3.chunk.js",
+    "main.js.map": "/WBS-meme-genrator/static/js/main.e48a4ce3.chunk.js.map",
+    "runtime-main.js": "/WBS-meme-genrator/static/js/runtime-main.cc29df0a.js",
+    "runtime-main.js.map": "/WBS-meme-genrator/static/js/runtime-main.cc29df0a.js.map",
+    "static/js/2.9785af12.chunk.js": "/WBS-meme-genrator/static/js/2.9785af12.chunk.js",
+    "static/js/2.9785af12.chunk.js.map": "/WBS-meme-genrator/static/js/2.9785af12.chunk.js.map",
+    "static/js/3.b87542c5.chunk.js": "/WBS-meme-genrator/static/js/3.b87542c5.chunk.js",
+    "static/js/3.b87542c5.chunk.js.map": "/WBS-meme-genrator/static/js/3.b87542c5.chunk.js.map",
+    "index.html": "/WBS-meme-genrator/index.html",
+    "static/css/main.a7253975.chunk.css.map": "/WBS-meme-genrator/static/css/main.a7253975.chunk.css.map",
+    "static/js/2.9785af12.chunk.js.LICENSE.txt": "/WBS-meme-genrator/static/js/2.9785af12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc29df0a.js",
+    "static/js/2.9785af12.chunk.js",
+    "static/css/main.a7253975.chunk.css",
+    "static/js/main.e48a4ce3.chunk.js"
+  ]
+}
